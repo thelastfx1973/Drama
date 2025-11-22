@@ -1,4 +1,4 @@
 # wao
 ## waowao
 ### waowaowao
-[new wao](README.html)
+[new wao](README.md)
