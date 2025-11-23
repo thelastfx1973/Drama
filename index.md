@@ -8,4 +8,4 @@ def sushi
 puts 'お寿司'
 end
 ```
-![wao](/K2025_063_Rei1.png)
+![wao](/K2025_067_Rei4.png)
