@@ -7,6 +7,7 @@
 - [TVer番組ページ](https://tver.jp/series/srb204z91w)
 - [番組公式サイト](https://www.fujitv.co.jp/ichikei/)
 - [番組公式X](https://x.com/ichikei_cx)
+- [私的メモ](https://x.com/thelastfx/status/1992458181927403794)
 
 ## 第1話 型破りの裁判官VS堅物エリート裁判官！バディ誕生
 
