@@ -1,6 +1,6 @@
 # イチケイのカラス
 
-!(イチケイのカラス)[https://statics.tver.jp/images/content/thumbnail/series/large/srb204z91w.jpg?v=12]
+![イチケイのカラス](https://statics.tver.jp/images/content/thumbnail/series/large/srb204z91w.jpg?v=12)
 
 ## 第1話 型破りの裁判官VS堅物エリート裁判官！バディ誕生
 
