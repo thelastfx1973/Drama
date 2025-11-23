@@ -7,6 +7,10 @@
 
 - [イチケイのカラス](iti/itikei_no_karasu.md)
 
+### です
+
+- [デスノート](desu/death_note.md)
+
 [new wao](wao.md)
 
 ```ruby:sushi.rb
