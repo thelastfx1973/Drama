@@ -1,3 +1,4 @@
+[Home](/index.md) ＞ [りち](/riti/)
 # リッチマン、プアウーマン
 
 ![リッチマン、プアウーマン](https://statics.tver.jp/images/content/thumbnail/series/large/sr0g4okqut.jpg?v=5)
