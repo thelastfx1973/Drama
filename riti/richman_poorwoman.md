@@ -19,8 +19,10 @@
 
 そして、運命的な出会い。面接の場で千尋が徹に食ってかかる場面は、二人の関係性の始まりとして最高にドラマチックでした！✨ 石原さとみさんの、真っすぐだけど不器用な情熱が、徹の閉ざされた心にどう影響を与えていくのか……。この回で、視聴者は完全にこのロマンスに魅了されてしまうんです。もう、何度見ても第1話の掴みは完璧だと感心してしまいます！
 
+- [FOD](https://fod.fujitv.co.jp/title/4389/4389110002)
+
 ## 主題歌「ヒカリヘ」miwa
 
 miwaさんの「ヒカリヘ」は知っていて、YouTubeMusicお気に入りに登録してある大好きな曲。このドラマの主題歌だったとは。がぜんドラマにも興味を持ちますね。
 
-[![](https://utfs.io/f/nGnSqDveMsqxARU7IpX1nkORdXhc4E0vWDI9uNrjbgp7xoKV)](https://www.youtube.com/watch?v=aRyjZa89g4o)
+[![YouTube Video aRyjZa89g4o](https://utfs.io/f/nGnSqDveMsqxVlbH56rJe0alCDndF9sm64f7ik1oqbuM5UOj)](https://www.youtube.com/watch?v=DdP0CsOuI2E)
