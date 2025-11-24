@@ -11,6 +11,10 @@
 
 - [デスノート](desu/death_note.md)
 
+### りち
+
+- [リッチマン、プアウーマン](riti/richman_poorwoman.md)
+
 [new wao](wao.md)
 
 ```ruby:sushi.rb
