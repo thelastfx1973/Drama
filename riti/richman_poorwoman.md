@@ -7,9 +7,4 @@
 - [MyMemo](https://x.com/thelastfx/status/1992757107817648594)
 
 
-<div class="video-container">
-    <iframe src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/aRyjZa89g4o?si=wJ4mBsjLgCFqIPhe)"
-     title="YouTube video player"
-     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-     allowfullscreen></iframe>
-</div>
+[![](https://img.youtube.com/vi/aRyjZa89g4o&list=RDaRyjZa89g4o&start_radio=1/0.jpg)](https://www.youtube.com/watch?v=aRyjZa89g4o&list=RDaRyjZa89g4o&start_radio=1)
