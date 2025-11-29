@@ -2,7 +2,7 @@
 
 ## さしすせそ
 
-### SPEC
+- [SPEC](sasisuseso/spec.md)
 
 # wao
 ## waowao
