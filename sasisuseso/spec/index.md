@@ -2,6 +2,9 @@
 
 ![SPEC](https://statics.tver.jp/images/content/thumbnail/series/large/srjtropbk4.jpg?v=15)
 
+- Table of Content
+{:toc}
+
 正式名称は『SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜』と長いので覚えられません。😁
 
 このドラマは2010年に放送された作品で、主演の**戸田恵梨香**さんと**加瀬亮**さんのコンビが本当に最高！
