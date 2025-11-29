@@ -5,5 +5,5 @@ layout: default
 
 ## さしすせそ
 
-- [SPEC](sa/spec/)
+- [SPEC](Sa/spec/)
 
